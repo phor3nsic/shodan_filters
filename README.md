@@ -1,18 +1,12 @@
 # shodan_filters
 
-ssl:"Target"
-
-ssl:"Target" 200
-
-ssl:"Target" org:"Amazon"
-
-ssl:"Target" -"AkamaiGHost"
-
-title:"Target"
-
-html:"Pattern" ***footer***
-
-ssl:"company development"
+ssl:"Target"  
+ssl:"Target" 200  
+ssl:"Target" org:"Amazon"  
+ssl:"Target" -"AkamaiGHost"  
+title:"Target"  
+html:"Pattern" ***footer***  
+ssl:"company development"  
 
 
 **RUBY DEBUG ON**
