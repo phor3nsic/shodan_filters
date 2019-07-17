@@ -1,36 +1,35 @@
 # shodan_filters
-<br>
-ssl:"Target"<br>
-ssl:"Target" 200<br><br>
-ssl:"Target" org:"Amazon"<br>
-ssl:"Target" -"AkamaiGHost"<br>
-title:"Target"<br>
-html:"Pattern" ***footer***<br>
-ssl:"company development"<br>
-<br>
-**RUBY DEBUG ON**<br>
-html:"SECRET_KEY_BASE"<br>
-html:"rack.version"<br>
-html:"rack.errors"<br>
-html:"puma.socket"<br>
-http.component:ruby<br>
-<br>
-**DJANGO**<br>
-http.component:django<br>
-<br>
-<br>
-**Kubernates**<br>
-http.component:Kubernetes<br>
-<br>
-**Jenkins**<br>
-html:"Dashboard Jenkins" <br>
-http.component:"Jenkins"<br>
-<br>
-**GlassFish**<br>
-http.component:glassfish<br>
-port 9898<br>
-<br>
-**Moodle**<br>
-http.component:moodle<br>
-<br>
+\n
+ssl:"Target"
+ssl:"Target" 200
+ssl:"Target" org:"Amazon"
+ssl:"Target" -"AkamaiGHost"
+title:"Target"
+html:"Pattern" ***footer***
+ssl:"company development"
+
+**RUBY DEBUG ON**
+html:"SECRET_KEY_BASE"
+html:"rack.version"
+html:"rack.errors"
+html:"puma.socket"
+http.component:ruby
+
+**DJANGO**
+http.component:django
+
+**Kubernates**
+http.component:Kubernetes
+
+**Jenkins**
+html:"Dashboard Jenkins" 
+http.component:"Jenkins"
+
+**GlassFish**
+http.component:glassfish
+port 9898
+
+**Moodle**
+http.component:moodle
+
 @ph0rensic
