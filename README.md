@@ -9,7 +9,7 @@ html:"Pattern" ***footer***
 ssl:"company development"  
 
 
-**RUBY DEBUG ON**  
+**RUBY**  
 html:"SECRET_KEY_BASE"  
 html:"rack.version"  
 html:"rack.errors"  
