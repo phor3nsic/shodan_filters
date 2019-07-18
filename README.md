@@ -28,7 +28,7 @@ http.component:"Jenkins"
 
 **GlassFish**  
 http.component:glassfish  
-port 4848  
+port:4848  
 
 **Moodle**  
 http.component:moodle  
