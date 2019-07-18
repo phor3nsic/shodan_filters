@@ -14,7 +14,7 @@ html:"SECRET_KEY_BASE"
 html:"rack.version"  
 html:"rack.errors"  
 html:"puma.socket"  
-http.component:ruby  
+http.component:ruby port:3000 ***debug on***
 
 **DJANGO**  
 http.component:django  
