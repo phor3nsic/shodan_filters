@@ -6,7 +6,7 @@ ssl:"Target" org:"Amazon"
 ssl:"Target" -"AkamaiGHost"  
 title:"Target"  
 html:"Pattern" ***footer***  
-ssl:"company development"
+ssl:"company development"   
 ssl.cert.subject.CN: domain.com
 
 
