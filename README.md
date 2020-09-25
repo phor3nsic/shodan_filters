@@ -33,6 +33,41 @@ port:4848
 
 **Moodle**  
 http.component:moodle  
+
+'http.favicon.hash:81586312',
+
+**Jenkins**   
+'x-jenkins',
+'http.component:jenkins',
+'title:Dashboard[Jenkins]',
+
+'http.favicon.hash:710184709',
+'http.favicon.hash:567176827',
+'http.component:glassfish',
+'http.component:ruby',
+'html:"ln=primefaces"',
+'http.favicon.hash:116323821',
+'"Server: Apache-Coyote"',
+'http.component:tomcat',
+'http.component:liferay',
+'http.favicon.hash:129457226',
+'Liferay-Portal',
+'http.favicon.hash:-297069493',
+'http.favicon.hash:-838827616',
+'http.favicon.hash:366524387',
+'"WebLogic Server"',
+'http.favicon.hash:-656811182',
+'"x-powered-by" "jboss"',
+'http.component:jboss',
+'DisallowedHost',
+'http.component:django',
+'http.component:wordpress',
+'http.component:codeigniter',
+'http.component:laravel',
+'http.component:drupal',
+'"Server: Werkzeug/1.0"',
+'http.component:"Adobe Experience Manager"',
+'http.favicon.hash:-335242539' #BIG-IP-F5
   
 @phor3nsic 
 
