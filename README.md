@@ -123,6 +123,10 @@ React
 ---
 - http.component:react
 
+Mantis
+---
+- http.favicon.hash:662709064
+
 @phor3nsic 
 
 *reference:*
