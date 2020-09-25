@@ -1,7 +1,5 @@
 # Shodan Filters
 
-View the book with "<i class="fa fa-book fa-fw"></i> Book Mode".
-
 General
 ---
 - ssl:"Target"  
