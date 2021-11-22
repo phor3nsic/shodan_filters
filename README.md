@@ -9,6 +9,10 @@ General
 - ssl:"company development"   
 - ssl.cert.subject.CN: domain.com
 
+INTERNAL HOSTS OF CORP
+---
+- ssl.cert.issuer.CN:"cop.local" 
+
 RUBY
 ---
 - html:"SECRET_KEY_BASE"  
